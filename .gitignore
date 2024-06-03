@@ -1,21 +1,21 @@
-# Ignorowanie środowiska wirtualnego
+# Ignoring the virtual environment
 venv/
 
-# Ignorowanie plików specyficznych dla systemu operacyjnego
+# Ignoring OS-specific files
 *.pyc
 __pycache__/
 .DS_Store
 
-# Ignorowanie plików logów
+# Ignoring log files
 *.log
 
-# Ignorowanie plików konfiguracyjnych IDE
+# Ignoring IDE configuration files
 .vscode/
 .idea/
 
-# Ignorowanie plików tymczasowych
+# Ignoring temporary files
 *.tmp
 *.temp
 
-# Ignorowanie plików utworzonych przez system operacyjny
+# Ignoring files created by the operating system
 Thumbs.db
